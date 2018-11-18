@@ -3,8 +3,8 @@
              .----.   @   @
             / .-"-.`.  \v/
             | | '\ \ \_/ )
-           ,-\ `-.' /.'  /
-           '---`----'----'
+          ,-\ `-.' /.'  /
+          '---`----'----'
 
 
 Mimikatz_trunk this is script for hacking computer passwords:
