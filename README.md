@@ -1,5 +1,12 @@
 # green-force-mimikatz
 
+    .----.   @   @
+   / .-"-.`.  \v/
+   | | '\ \ \_/ )
+ ,-\ `-.' /.'  /
+'---`----'----'
+
+
 Mimikatz_trunk this is script for hacking computer passwords:
 
 Open mimikatz.exe
